@@ -1,0 +1,41 @@
+LUI,Plot,Pool,Element,sub
+High intensity,a,Bulk soil,Carbon,0.258351218
+High intensity,b,Bulk soil,Carbon,0.063439443
+High intensity,c,Bulk soil,Carbon,0.056378599
+High intensity,d,Bulk soil,Carbon,0.328841792
+High intensity,e,Bulk soil,Carbon,0.325136162
+Low intensity,f,Bulk soil,Carbon,0.301857067
+Low intensity,g,Bulk soil,Carbon,0.313688706
+Low intensity,h,Bulk soil,Carbon,0.08323337
+Low intensity,i,Bulk soil,Carbon,0.413041124
+Low intensity,j,Bulk soil,Carbon,0.397465067
+High intensity,a,MAOM,Carbon,0.119987853
+High intensity,b,MAOM,Carbon,0.002625823
+High intensity,c,MAOM,Carbon,0.051582687
+High intensity,d,MAOM,Carbon,0.232220658
+High intensity,e,MAOM,Carbon,0.193143404
+Low intensity,f,MAOM,Carbon,0.184645065
+Low intensity,g,MAOM,Carbon,0.150826721
+Low intensity,h,MAOM,Carbon,0.050985967
+Low intensity,i,MAOM,Carbon,0.281716343
+Low intensity,j,MAOM,Carbon,0.255051227
+High intensity,a,Bulk soil,Nitrogen,0.088343024
+High intensity,b,Bulk soil,Nitrogen,0.047838675
+High intensity,c,Bulk soil,Nitrogen,0.036505024
+High intensity,d,Bulk soil,Nitrogen,0.178749373
+High intensity,e,Bulk soil,Nitrogen,0.170703518
+Low intensity,f,Bulk soil,Nitrogen,0.153269351
+Low intensity,g,Bulk soil,Nitrogen,0.140371244
+Low intensity,h,Bulk soil,Nitrogen,0.051658217
+Low intensity,i,Bulk soil,Nitrogen,0.228837797
+Low intensity,j,Bulk soil,Nitrogen,0.192210147
+High intensity,a,MAOM,Nitrogen,0.068805121
+High intensity,b,MAOM,Nitrogen,0.03610546
+High intensity,c,MAOM,Nitrogen,0.033224191
+High intensity,d,MAOM,Nitrogen,0.138408567
+High intensity,e,MAOM,Nitrogen,0.140685608
+Low intensity,f,MAOM,Nitrogen,0.126532614
+Low intensity,g,MAOM,Nitrogen,0.115253539
+Low intensity,h,MAOM,Nitrogen,0.04716052
+Low intensity,i,MAOM,Nitrogen,0.166970971
+Low intensity,j,MAOM,Nitrogen,0.176745426
